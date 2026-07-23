@@ -43,4 +43,6 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 **Thiago Cardoso**
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Back-end Java.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Back-end Java. 
+Obs: (o appication.properties não foi enviado devido que ele está sendo ignorado pelo git.ignore).
+
