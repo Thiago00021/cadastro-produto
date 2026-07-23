@@ -2,7 +2,7 @@ API REST desenvolvida com **Java 21** e **Spring Boot** para gerenciamento de pr
 
 Tecnologias utilizadas:
 - Java 21
-- Spring Boot 3
+- Spring Boot 
 - Spring Web
 - Spring Data JPA
 - H2 Database
